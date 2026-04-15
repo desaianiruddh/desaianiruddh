@@ -34,21 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=desaianiruddh&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=desaianiruddh&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=desaianiruddh&theme=react-dark" />
-
----
-
 ## 🧠 What I Do Best  
 
 ✨ Build reusable & scalable UI components  
