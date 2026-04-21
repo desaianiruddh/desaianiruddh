@@ -12,6 +12,9 @@
 🚀 Love building **scalable, reusable & high-performance apps**  
 🤝 Collaborative, problem-solver & continuous learner  
 
+🌐 **Check out my portfolio:**  
+👉 https://my-portfolio-green-two-58.vercel.app/
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -54,6 +57,7 @@
 
 ## 🌐 Connect With Me  
 
+🌍 **Portfolio:** https://my-portfolio-green-two-58.vercel.app/  
 📧 desai.ani.ap@gmail.com  
 💼 https://www.linkedin.com/in/aniruddh-desai-94380b202  
 💻 https://github.com/desaianiruddh  
